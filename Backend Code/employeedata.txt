@@ -1,0 +1,26 @@
+// {
+//     "email":"ravi@123345",
+//     "password":"1234"
+//   }
+
+
+ "eamil":"ravikiran011@gmail.com",
+  "password":"12345678"
+
+//addproduct
+
+{
+"id":"65d317ed2979bf012bdb1e0f",
+"product_name":
+"amul",
+"pack_size":
+" 250 ml",
+"product_MRP":
+"RS 10000",
+"product_iamge":
+"https://in.images.search.yahoo.com/images/view;_ylt=AwrKB9h7IdNlkacFrd…",
+"status":
+"ACTIVE"
+}
+
+//
